@@ -1,0 +1,105 @@
+﻿@model EventScheduler.Models.UsersModel
+
+<style>
+    body{
+        background-image: url(/pic2.jpg);
+        background-size: 100%;
+    }
+</style>
+
+    @using (Html.BeginForm())
+    {
+            <div class="container">
+                <div class="col-md-4 pull-left">
+                    <h1 style="color: dodgerblue">Login</h1>
+                   @if(TempData["error"] != null)
+                   {
+                       <p class="alert alert-danger">@TempData["error"]</p>
+                   }
+                    @Html.TextBoxFor(x => x.Email, new { @class = "form-control", @placeholder = "Email Address" })
+                    <br />
+                    @Html.PasswordFor(x => x.Password, new { @class = "form-control", @placeholder = "Your Password" })
+                    <br />
+                    <button type="submit" class="btn btn-success">Login</button>
+                </div>
+                <div id="singUpText" class="pull-right">
+                    <h3 style="color: dodgerblue; margin-top:20px">Not a registered member? Please Sign up <b style="color:white">here</b></h3>
+                </div>
+                <div id="register" class="col-lg-4 pull-right">
+                    <h3 style="color: white">Sign up for Free</h3>
+                    <label style="color: dodgerblue; font-size:large">First Name</label>
+                    @Html.TextBoxFor(x => x.FirstName, new { @class = "form-control", @placeholder = "First Name", @id = "firstName",@style="margin-bottom:5px" })
+                    <label style="color: dodgerblue; font-size: large">Last Name</label>
+                    @Html.TextBoxFor(x => x.LastName, new { @class = "form-control", @placeholder = "Last Name", @id = "lastName", @style = "margin-bottom:5px" })
+                    <label style="color:dodgerblue; font-size: large">Password</label>
+                    @Html.PasswordFor(x => x.Password, new { @class = "form-control", @placeholder = "Password", @id = "pass", @style = "margin-bottom:5px" })
+                    <label style="color:dodgerblue; font-size: large">Confirm Password</label>
+                    @Html.PasswordFor(x => x.Password, new { @class = "form-control", @placeholder = "Confirm Password", @id = "confirmPass", @style = "margin-bottom:5px" })
+                    <label style="color: dodgerblue; font-size: large">Email Address</label>
+                    @Html.TextBoxFor(x => x.Email, new { @class = "form-control", @placeholder = "Email Address", @id = "emailAddress", @style = "margin-bottom:5px" })
+
+                    <br />
+                    <input type="button" onclick="userRegister()" class="btn btn-success" value="Sign up" />
+                </div>
+            </div>
+    }
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+
+<script>
+
+    ////////////////////
+     $(document).ready(function () {
+        $("#register").toggle('hide');
+        $("#singUpText").click(function () {
+            $("#register").toggle('show');
+            $("#singUpText").toggle('hide');
+        })
+     });
+    ////////////////////
+
+    var userRegister = function () {
+        var FirstName = $("#firstName").val();
+        var LastName = $("#lastName").val();
+        var Password = $("#pass").val();
+        var EmailAddress = $("#emailAddress").val();
+
+        if ($('#firstName').val() == "") {
+            alert("First Name should not be empty");
+        }
+        else if (!isNaN($('#firstName').val())) {
+            alert("First Name can not be a number");
+        }
+        else if ($('#lastName').val() == "") {
+            alert("Last Name should not be empty")
+        }
+
+        else if (!isNaN($('#lastName').val())) {
+            alert("Last name can not be a number");
+        }
+        else if ($('#pass').val()==""){
+            alert("Password can not be empty");
+        }
+        else if ($('#confirmPass').val() == "") {
+            alert("Confirm Password can not be empty");
+        }
+        else if ($('#pass').val() !== $('#confirmPass').val()) {
+            alert("Password and confirm password does not match");
+        }
+        else if ($('#emailAddress').val() == "") {
+            alert("Email address can not be empty");
+        }
+        else {
+            $.ajax({
+                type: "POST",
+                url: "/Home/SignUp",
+                data: { firstname: FirstName, lastname: LastName, password: Password, emailaddress: EmailAddress },
+                success: function () {
+                    alert('You have been successfully registered!');
+                },
+                error: function () {
+                    alert('This Email address is already registered!');
+                }
+            });
+        }
+    }
+</script>

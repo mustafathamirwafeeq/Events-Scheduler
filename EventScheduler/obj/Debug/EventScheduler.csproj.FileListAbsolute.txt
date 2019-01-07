@@ -1,0 +1,148 @@
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\roslyn\csc.exe
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\roslyn\vbc.exe
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\roslyn\VBCSCompiler.exe
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\EventScheduler.dll.config
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\EventScheduler.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\EventScheduler.pdb
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\EntityFramework.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\EntityFramework.SqlServer.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\System.Web.Helpers.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\System.Web.Mvc.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\System.Web.Razor.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\System.Web.Webpages.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\System.Web.Webpages.Razor.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\EntityFramework.xml
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\EntityFramework.SqlServer.xml
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\System.Web.Razor.xml
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\System.Web.Webpages.xml
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\System.Web.Webpages.Razor.xml
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\System.Web.Helpers.xml
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\bin\System.Web.Mvc.xml
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\obj\Debug\EventScheduler.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\obj\Debug\EventScheduler.pdb
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\EventScheduler\EventScheduler\obj\Debug\EventScheduler.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\roslyn\csc.exe
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\roslyn\vbc.exe
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\EventScheduler.dll.config
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\EventScheduler.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\EventScheduler.pdb
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\EntityFramework.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\EntityFramework.SqlServer.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\System.Web.Helpers.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\System.Web.Mvc.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\System.Web.Razor.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\System.Web.Webpages.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\EntityFramework.xml
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\EntityFramework.SqlServer.xml
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\System.Web.Razor.xml
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\System.Web.Webpages.xml
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\System.Web.Helpers.xml
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\bin\System.Web.Mvc.xml
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\obj\Debug\EventScheduler.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\obj\Debug\EventScheduler.dll
+C:\Users\Mustafa Thamir\Desktop\event\EventScheduler\EventScheduler\EventScheduler\obj\Debug\EventScheduler.pdb
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\roslyn\csc.exe
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\roslyn\vbc.exe
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\EventScheduler.dll.config
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\EventScheduler.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\EventScheduler.pdb
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\EntityFramework.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\EntityFramework.SqlServer.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\System.Web.Helpers.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\System.Web.Mvc.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\System.Web.Razor.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\System.Web.Webpages.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\EntityFramework.xml
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\EntityFramework.SqlServer.xml
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\System.Web.Razor.xml
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\System.Web.Webpages.xml
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\System.Web.Helpers.xml
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\bin\System.Web.Mvc.xml
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\obj\Debug\EventScheduler.dll
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\obj\Debug\EventScheduler.pdb
+C:\Users\Mustafa Thamir\Desktop\EventScheduler\EventScheduler\obj\Debug\EventScheduler.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\roslyn\csc.exe
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\roslyn\vbc.exe
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\EventScheduler.dll.config
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\EventScheduler.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\EventScheduler.pdb
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\EntityFramework.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\EntityFramework.SqlServer.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\System.Web.Helpers.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\System.Web.Mvc.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\System.Web.Razor.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\System.Web.Webpages.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\EntityFramework.xml
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\EntityFramework.SqlServer.xml
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\System.Web.Razor.xml
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\System.Web.Webpages.xml
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\System.Web.Helpers.xml
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\bin\System.Web.Mvc.xml
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\obj\Debug\EventScheduler.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\obj\Debug\EventScheduler.dll
+C:\Users\Mustafa Thamir\Documents\EventScheduler\EventScheduler\obj\Debug\EventScheduler.pdb
